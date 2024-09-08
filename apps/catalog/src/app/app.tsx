@@ -5,7 +5,7 @@ import NxWelcome from './nx-welcome';
 export function App() {
   return (
     <>
-      <NxWelcome title="samith" />
+      <h1>This is updated home page</h1>
       <div />
     </>
   );
